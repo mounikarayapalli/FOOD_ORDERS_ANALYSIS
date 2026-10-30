@@ -13,7 +13,7 @@ BATCH_SIZE = 100
 # MySQL configuration
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASSWORD = "Jyothsna562@"
+DB_PASSWORD = "Mounika@2413"
 
 # Raw database details
 RAW_DATABASE = "food_orders_raw_db"
